@@ -157,7 +157,7 @@ nav a.active::after {
   background-position: center;
   color: white;
   text-align: center;
-  padding: 140px 10%;
+  padding: 142px 10%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -460,5 +460,6 @@ footer {
   .cards { flex-direction: column; gap: 16px; }
 
 }
+
 
 
